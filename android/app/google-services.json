@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "628792576080",
+    "project_id": "kitepkana-18f70",
+    "storage_bucket": "kitepkana-18f70.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628792576080:android:8dee34dcdebb4977ee2955",
+        "android_client_info": {
+          "package_name": "com.example.kitepkana"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBsLxhcqQ8uPQXlj4W_idQhH0uaTfwUxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628792576080:android:ec70c96b63007c0fee2955",
+        "android_client_info": {
+          "package_name": "com.example.library_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBsLxhcqQ8uPQXlj4W_idQhH0uaTfwUxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
